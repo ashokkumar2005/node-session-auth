@@ -1,27 +1,27 @@
 # 🔐 Node.js Session Authentication
 
-This project is a simple **authentication system** built using **Node.js and Express.js**.  
+This project is a simple **authentication system** built using **Node.js and Express.js**.
 It demonstrates how login authentication works using **express-session** and how to protect routes using user sessions.
 
 ---
 
 ## 🚀 Features
 
-- User login authentication
-- Session management using express-session
-- Protected route (Dashboard)
-- Logout functionality
-- JSON request handling
-- Beginner-friendly project structure
+* User login authentication
+* Session management using express-session
+* Protected route (Dashboard)
+* Logout functionality
+* JSON request handling
+* Beginner-friendly project structure
 
 ---
 
 ## 🛠️ Technologies Used
 
-- Node.js
-- Express.js
-- express-session
-- JavaScript
+* Node.js
+* Express.js
+* express-session
+* JavaScript
 
 ---
 
@@ -92,8 +92,8 @@ Server will start at:
 
 **GET** `/dashboard`
 
-- Returns a welcome message if the user session exists.
-- Otherwise, access will be denied.
+* Returns a welcome message if the user session exists
+* Otherwise, access will be denied
 
 ---
 
@@ -101,19 +101,19 @@ Server will start at:
 
 **GET** `/logout`
 
-- Destroys the user session
-- Logs out the user
+* Destroys the user session
+* Logs out the user
 
 ---
 
 ## 🎯 Learning Purpose
 
-This project was created to **practice session-based authentication** in Express.js.  
+This project was created to **practice session-based authentication** in Express.js.
 It helps beginners understand:
 
-- How sessions work
-- How authentication is handled
-- How protected routes are implemented in backend applications
+* How sessions work
+* How authentication is handled
+* How protected routes are implemented in backend applications
 
 ---
 
